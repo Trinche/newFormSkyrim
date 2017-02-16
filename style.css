@@ -1,0 +1,8 @@
+body {background-image:url("img/606641.jpg"); background-position:left top;}
+.container {background-color:rgba(0, 0, 0, 0.7); position:absolute; top:50px; right:100px;} 
+.col-xs-5 {padding:20px}
+p {color:white;}
+.blanco {color:white;}
+.alert {visibility:hidden;}
+.img-thumbnail {visibility:hidden;}
+
